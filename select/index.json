@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "爆ラブ＋ケミストリー",
+  "base_artist": "博衣こより",
+  "createdAt": "2026-03-10T08:53:18.119073Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "爆ラブ+ケミストリー",
+      "artist": "博衣こより",
+      "has_synced": false,
+      "path": "select/pl_01_爆ラブ+ケミストリー_博衣こより.txt"
+    }
+  ]
+}
